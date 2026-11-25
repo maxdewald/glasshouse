@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-labelledby="title desc">
-<title id="title">Smoother Apps-row scrolling</title><desc id="desc">Mean 25.51 to 17.06 milliseconds; p95 49.95 to 16.80 milliseconds; p99 66.70 to 33.30 milliseconds</desc>
+<title id="title">Smoother Apps-row scrolling</title><desc id="desc">Mean 21.69 to 16.78 milliseconds; p95 33.40 to 16.70 milliseconds; p99 50.00 to 16.80 milliseconds</desc>
 <g font-family="system-ui, DejaVu Sans, sans-serif">
 <rect x="0" y="0" width="720" height="350" rx="20" fill="#1c1916"/>
 <text x="28" y="44" font-size="27" fill="#fff3e6" font-weight="700">Smoother Apps-row scrolling</text>
@@ -9,19 +9,19 @@
 <rect x="601" y="32" width="12" height="12" rx="4" fill="#efb663"/>
 <text x="620" y="44" font-size="16" fill="#c4b8aa" font-weight="500">After</text>
 <text x="28" y="134" font-size="19" fill="#fff3e6" font-weight="500">Mean</text>
-<rect x="136" y="112" width="172.87" height="13" rx="4" fill="#b6a58f"/>
-<text x="317.87" y="124" font-size="15" fill="#b6a58f" font-weight="700">25.51 ms</text>
-<rect x="136" y="133" width="115.61" height="13" rx="4" fill="#efb663"/>
-<text x="260.61" y="145" font-size="15" fill="#efb663" font-weight="700">17.06 ms</text>
+<rect x="136" y="112" width="196.08" height="13" rx="4" fill="#b6a58f"/>
+<text x="341.08000000000004" y="124" font-size="15" fill="#b6a58f" font-weight="700">21.69 ms</text>
+<rect x="136" y="133" width="151.69" height="13" rx="4" fill="#efb663"/>
+<text x="296.69" y="145" font-size="15" fill="#efb663" font-weight="700">16.78 ms</text>
 <text x="28" y="198" font-size="19" fill="#fff3e6" font-weight="500">p95</text>
-<rect x="136" y="176" width="338.49" height="13" rx="4" fill="#b6a58f"/>
-<text x="483.49" y="188" font-size="15" fill="#b6a58f" font-weight="700">49.95 ms</text>
-<rect x="136" y="197" width="113.85" height="13" rx="4" fill="#efb663"/>
-<text x="258.85" y="209" font-size="15" fill="#efb663" font-weight="700">16.80 ms</text>
+<rect x="136" y="176" width="301.94" height="13" rx="4" fill="#b6a58f"/>
+<text x="446.94" y="188" font-size="15" fill="#b6a58f" font-weight="700">33.40 ms</text>
+<rect x="136" y="197" width="150.97" height="13" rx="4" fill="#efb663"/>
+<text x="295.97" y="209" font-size="15" fill="#efb663" font-weight="700">16.70 ms</text>
 <text x="28" y="262" font-size="19" fill="#fff3e6" font-weight="500">p99</text>
 <rect x="136" y="240" width="452.0" height="13" rx="4" fill="#b6a58f"/>
-<text x="597.0" y="252" font-size="15" fill="#b6a58f" font-weight="700">66.70 ms</text>
-<rect x="136" y="261" width="225.66" height="13" rx="4" fill="#efb663"/>
-<text x="370.65999999999997" y="273" font-size="15" fill="#efb663" font-weight="700">33.30 ms</text>
+<text x="597.0" y="252" font-size="15" fill="#b6a58f" font-weight="700">50.00 ms</text>
+<rect x="136" y="261" width="151.87" height="13" rx="4" fill="#efb663"/>
+<text x="296.87" y="273" font-size="15" fill="#efb663" font-weight="700">16.80 ms</text>
 <text x="28" y="325" font-size="15" fill="#c4b8aa" font-weight="500">Alternative View + Pictures · C2 emulator · 4× CPU slowdown · 2 paired runs</text>
 </g></svg>

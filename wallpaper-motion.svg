@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="215" viewBox="0 0 720 215" role="img" aria-labelledby="title desc">
-<title id="title">Wallpaper drift no longer zooms</title><desc id="desc">Drift changed from shift and zoom every 0.5 seconds to shifting by 2 stage pixels horizontally and 1 vertically every 7.5 seconds. It reverses every 3 minutes.</desc>
+<title id="title">Wallpaper drift no longer zooms</title><desc id="desc">Drift changed from shift and zoom every 0.5 seconds to a one-device-pixel horizontal shift every 3.75 seconds. It reverses at the end of its travel.</desc>
 <g font-family="system-ui, DejaVu Sans, sans-serif">
 <rect x="0" y="0" width="720" height="215" rx="20" fill="#1c1916"/>
-<text x="28" y="44" font-size="27" fill="#fff3e6" font-weight="700">Same wallpaper drift, no zoom</text>
+<text x="28" y="44" font-size="27" fill="#fff3e6" font-weight="700">Wallpaper drift without zoom</text>
 <rect x="28" y="65" width="320" height="94" rx="12" fill="#302922"/>
 <text x="44" y="90" font-size="15" fill="#c4b8aa" font-weight="500">Before</text>
 <text x="44" y="117" font-size="20" fill="#fff3e6" font-weight="700">Shift + zoom</text>
 <text x="44" y="141" font-size="16" fill="#c4b8aa" font-weight="500">Every 0.5 seconds</text>
 <rect x="372" y="65" width="320" height="94" rx="12" fill="#302922"/>
 <text x="388" y="90" font-size="15" fill="#c4b8aa" font-weight="500">After</text>
-<text x="388" y="117" font-size="20" fill="#efb663" font-weight="700">Shift 2 px left, 1 px up</text>
-<text x="388" y="141" font-size="16" fill="#c4b8aa" font-weight="500">Every 7.5 seconds</text>
-<text x="28" y="189" font-size="15" fill="#c4b8aa" font-weight="500">Reverses every 3 minutes · diagram describes stage pixels</text>
+<text x="388" y="117" font-size="20" fill="#efb663" font-weight="700">1 display pixel sideways</text>
+<text x="388" y="141" font-size="16" fill="#c4b8aa" font-weight="500">Every 3.75 seconds</text>
+<text x="28" y="189" font-size="15" fill="#c4b8aa" font-weight="500">Reverses at the end of its travel · accounts for display density</text>
 </g></svg>
